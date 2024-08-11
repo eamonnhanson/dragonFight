@@ -1,0 +1,28 @@
+@startuml
+class Player {
+    +int xp
+    +int health
+    +int gold
+    +Array inventory
+    +void buyHealth()
+    +void buyWeapon()
+}
+
+class Location {
+    +String name
+    +Array buttonText
+    +Array buttonFunctions
+    +String text
+}
+
+class Game {
+    +void update(Location location)
+    +void goTown()
+    +void goStore()
+    +void goCave()
+    +void fightDragon()
+}
+
+Player --* Game : owns
+Location --* Game : contains
+@enduml
