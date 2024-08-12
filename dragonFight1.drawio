@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="xKz0ofd_XxrZpnlnTnVL" name="Page-1">
-        <mxGraphModel dx="1028" dy="5460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+        <mxGraphModel dx="1109" dy="5304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -230,19 +230,19 @@
                 <mxCell id="108" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="50" vertex="1">
                     <mxGeometry x="10" y="960" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="114" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="50" vertex="1">
+                <mxCell id="114" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;strokeColor=#FFFF00;" parent="50" vertex="1">
                     <mxGeometry x="780" y="820" width="420" height="740" as="geometry"/>
                 </mxCell>
-                <mxCell id="115" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;weapons[0]&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;name: &quot;stick&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&amp;nbsp; power: 5,&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="50" vertex="1">
+                <mxCell id="115" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;weapons[0]&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;name: &quot;stick&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;&amp;nbsp; power: 5,&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;strokeColor=#FFFF00;" parent="50" vertex="1">
                     <mxGeometry x="810" y="860" width="350" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="116" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 10.6667px;&quot;&gt;weapons[1]&lt;/span&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;name: &quot;dagger&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;power: 30,&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="50" vertex="1">
+                <mxCell id="116" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 10.6667px;&quot;&gt;weapons[1]&lt;/span&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;name: &quot;dagger&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;power: 30,&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;strokeColor=#FFFF00;" parent="50" vertex="1">
                     <mxGeometry x="810" y="1030" width="350" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 10.6667px;&quot;&gt;weapons[2]&lt;/span&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;name: &quot;claw hammer&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;power: 50,&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="50" vertex="1">
+                <mxCell id="117" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 10.6667px;&quot;&gt;weapons[2]&lt;/span&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;name: &quot;claw hammer&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;power: 50,&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;strokeColor=#FFFF00;" parent="50" vertex="1">
                     <mxGeometry x="810" y="1202.77" width="350" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="118" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 10.6667px;&quot;&gt;weapons[3]&lt;/span&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;name: &quot;sword&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;power: 100,&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="50" vertex="1">
+                <mxCell id="118" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 10.6667px;&quot;&gt;weapons[3]&lt;/span&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;name: &quot;sword&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;power: 100,&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;strokeColor=#FFFF00;" parent="50" vertex="1">
                     <mxGeometry x="810" y="1380" width="350" height="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="119" value="weapons" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="50" vertex="1">
@@ -474,24 +474,27 @@
                     <mxGeometry x="1650" y="-4520" width="540" height="171" as="geometry"/>
                 </mxCell>
                 <mxCell id="164" value="text.innetText" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="1" vertex="1">
-                    <mxGeometry x="2240" y="-4510" width="360" height="180" as="geometry">
+                    <mxGeometry x="2240" y="-4510" width="370" height="210" as="geometry">
                         <mxRectangle x="630" y="-4520" width="110" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="165" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&quot;Sell&amp;nbsp;weapon&amp;nbsp;for&amp;nbsp;15&amp;nbsp;gold&quot;;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="164" vertex="1">
-                    <mxGeometry y="30" width="360" height="30" as="geometry"/>
+                    <mxGeometry y="30" width="370" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="166" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;text.innerText&amp;nbsp;=&amp;nbsp;&quot;You&amp;nbsp;sold&amp;nbsp;a&amp;nbsp;&quot;&amp;nbsp;+&amp;nbsp;currentWeapon + &quot;.&quot;;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="164" vertex="1">
-                    <mxGeometry y="60" width="360" height="30" as="geometry"/>
+                    <mxGeometry y="60" width="370" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="167" value="&lt;p class=&quot;MsoPlainText&quot;&gt;text.innerText&amp;nbsp;+=&amp;nbsp;&quot;&amp;nbsp;In&amp;nbsp;your&amp;nbsp;inventory&amp;nbsp;you&amp;nbsp;have:&amp;nbsp;&quot;&amp;nbsp;+&amp;nbsp;inventory;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="164" vertex="1">
-                    <mxGeometry y="90" width="360" height="30" as="geometry"/>
+                    <mxGeometry y="90" width="370" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="168" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&amp;nbsp; text.innerText&amp;nbsp;=&amp;nbsp;&quot;Don't&amp;nbsp;sell&amp;nbsp;your&amp;nbsp;only&amp;nbsp;weapon!&quot;;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="164" vertex="1">
-                    <mxGeometry y="120" width="360" height="30" as="geometry"/>
+                    <mxGeometry y="120" width="370" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="169" value="&lt;p class=&quot;MsoPlainText&quot;&gt;item1&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="164" vertex="1">
-                    <mxGeometry y="150" width="360" height="30" as="geometry"/>
+                <mxCell id="300" value="&lt;p class=&quot;MsoPlainText&quot;&gt;text.innerText = &quot;The &quot; + monsters[fighting].name + &quot;attacks.&quot;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="164">
+                    <mxGeometry y="150" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="169" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span lang=&quot;EN-GB&quot;&gt;text.innerText&amp;nbsp;+=&amp;nbsp;&quot;&amp;nbsp;You&amp;nbsp;attack&amp;nbsp;it&amp;nbsp;with&amp;nbsp;your&amp;nbsp;&quot;&amp;nbsp;+&amp;nbsp;weapons[currentWeaponIndex].name&amp;nbsp;+&amp;nbsp;&quot;.&quot;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="164" vertex="1">
+                    <mxGeometry y="180" width="370" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="170" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="186" target="165" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -499,25 +502,25 @@
                         <mxPoint x="2000" y="-4220" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="172" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="229">
+                <mxCell id="172" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="229" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="2440" y="-2910" as="sourcePoint"/>
                         <mxPoint x="2490" y="-3050" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="173" value="" style="group;rounded=0;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="1710" y="-4330" width="1200" height="3000" as="geometry"/>
+                    <mxGeometry x="1710" y="-4331" width="1200" height="4050" as="geometry"/>
                 </mxCell>
                 <mxCell id="175" value="&#10;xp = 0&#10;&#10;" style="rounded=0;whiteSpace=wrap;html=1;" parent="173" vertex="1">
                     <mxGeometry y="27.05503736431571" width="120" height="81.16511209294713" as="geometry"/>
                 </mxCell>
-                <mxCell id="176" value="&#10;health = 100&#10;&#10;" style="rounded=0;whiteSpace=wrap;html=1;" parent="173" vertex="1">
+                <mxCell id="176" value="&#10;health = 100&#10;&#10;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC00;" parent="173" vertex="1">
                     <mxGeometry y="135.27518682157856" width="120" height="81.16511209294713" as="geometry"/>
                 </mxCell>
                 <mxCell id="177" value="&#10;gold = 50&#10;&#10;" style="rounded=0;whiteSpace=wrap;html=1;" parent="173" vertex="1">
                     <mxGeometry y="243.4953362788414" width="120" height="81.16511209294713" as="geometry"/>
                 </mxCell>
-                <mxCell id="178" value="&#10;currentWeaponIndex = 0&#10;&#10;" style="rounded=0;whiteSpace=wrap;html=1;" parent="173" vertex="1">
+                <mxCell id="178" value="&#10;currentWeaponIndex = 0&#10;&#10;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFF00;" parent="173" vertex="1">
                     <mxGeometry y="351.71548573610426" width="120" height="94.69263077510499" as="geometry"/>
                 </mxCell>
                 <mxCell id="179" value="&#10;fighting;&#10;&#10;" style="rounded=0;whiteSpace=wrap;html=1;" parent="173" vertex="1">
@@ -587,7 +590,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="197" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="173" vertex="1">
-                    <mxGeometry x="150" y="1109.2577319587629" width="320" height="1890.742268041237" as="geometry"/>
+                    <mxGeometry x="150" y="1109.26" width="320" height="2940.74" as="geometry"/>
                 </mxCell>
                 <mxCell id="199" value="&lt;br&gt;locations[1]&lt;br&gt;&lt;p style=&quot;font-size: 8px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;name:&amp;nbsp;&quot;store&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;button&amp;nbsp;text&quot;:&amp;nbsp;[&quot;Buy&amp;nbsp;10&amp;nbsp;health&amp;nbsp;(10&amp;nbsp;gold)&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&quot;Buy&amp;nbsp;weapon&amp;nbsp;(30&amp;nbsp;gold)&quot;,&amp;nbsp;&quot;Go&amp;nbsp;to&amp;nbsp;town&amp;nbsp;square&quot;],&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;button&amp;nbsp;functions&quot;:&amp;nbsp;[buyHealth,&amp;nbsp;buyWeapon,&amp;nbsp;goTown],&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;text:&amp;nbsp;&quot;You&amp;nbsp;enter&amp;nbsp;the&amp;nbsp;store.&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="173" vertex="1">
                     <mxGeometry x="178.32999999999998" y="1551.483415400941" width="253.33" height="326.9911168632817" as="geometry"/>
@@ -640,7 +643,7 @@
                 <mxCell id="217" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;monster[2]&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;name: &quot;dragon&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&amp;nbsp; level: 20,&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;health: 300&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="173" vertex="1">
                     <mxGeometry x="810" y="1627.0493645339002" width="350" height="175.85774286805213" as="geometry"/>
                 </mxCell>
-                <mxCell id="219" value="monsters" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="173" vertex="1">
+                <mxCell id="219" value="monsters[]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="173" vertex="1">
                     <mxGeometry x="955" y="1109.256531936944" width="60" height="40.58255604647356" as="geometry"/>
                 </mxCell>
                 <mxCell id="228" value="if (gold&amp;gt;=30)" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" parent="173" vertex="1">
@@ -734,8 +737,8 @@
                 <mxCell id="265" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="173" vertex="1">
                     <mxGeometry x="510" y="635.7933780614192" width="60" height="40.58255604647356" as="geometry"/>
                 </mxCell>
-                <mxCell id="267" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;goFight();&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;" parent="173" vertex="1">
-                    <mxGeometry x="245" y="2462.0084001527293" width="120" height="67.63759341078928" as="geometry"/>
+                <mxCell id="267" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;goFight();&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp;update(locations[3]);&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&amp;nbsp;monsterHealth&amp;nbsp;=&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;monsters[fighting].health;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;monsterStats.style.display&amp;nbsp;=&amp;nbsp;'block';&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;monsterName.innerText=&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;monsters[fighting].name;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; monsterHealthText.innerText =&amp;nbsp;monsterHealth;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;" parent="173" vertex="1">
+                    <mxGeometry x="170" y="2460" width="280" height="170" as="geometry"/>
                 </mxCell>
                 <mxCell id="268" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="173" source="210" target="270" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -755,13 +758,13 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="270" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;fighting&amp;nbsp;=&amp;nbsp;0;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="173" vertex="1">
+                <mxCell id="270" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;fighting&amp;nbsp;=&amp;nbsp;0;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;strokeColor=#00CC00;" parent="173" vertex="1">
                     <mxGeometry x="131.5" y="2394.37080674194" width="120" height="40.58255604647356" as="geometry"/>
                 </mxCell>
-                <mxCell id="271" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;fighting&amp;nbsp;= 1;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="173" vertex="1">
+                <mxCell id="271" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;fighting&amp;nbsp;= 1;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;strokeColor=#00CC00;" parent="173" vertex="1">
                     <mxGeometry x="265" y="2394.37080674194" width="120" height="40.58255604647356" as="geometry"/>
                 </mxCell>
-                <mxCell id="272" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;fighting&amp;nbsp;= 2;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="173" vertex="1">
+                <mxCell id="272" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;fighting&amp;nbsp;= 2;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;strokeColor=#00CC00;" parent="173" vertex="1">
                     <mxGeometry x="400" y="2394.37080674194" width="120" height="40.58255604647356" as="geometry"/>
                 </mxCell>
                 <mxCell id="273" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="173" source="206" target="272" edge="1">
@@ -798,7 +801,7 @@
                         <mxPoint x="400" y="2407.8983254240984" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="285" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="173" source="272" target="267">
+                <mxCell id="285" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="173" source="272" target="267" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="590" y="2443.2989690721647" as="sourcePoint"/>
                         <mxPoint x="640" y="2391.7525773195875" as="targetPoint"/>
@@ -807,7 +810,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="286" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="173" source="270" target="267">
+                <mxCell id="286" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="173" source="270" target="267" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="590" y="2443.2989690721647" as="sourcePoint"/>
                         <mxPoint x="640" y="2391.7525773195875" as="targetPoint"/>
@@ -816,11 +819,8 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="287" value="update(locations[3])" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="173">
-                    <mxGeometry x="226.49" y="2550" width="157" height="52.48" as="geometry"/>
-                </mxCell>
-                <mxCell id="281" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;locations[4]&lt;/span&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;name:&amp;nbsp;&quot;fight&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;text&quot;:&amp;nbsp;[&quot;Attack&quot;,&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&quot;Dodge&quot;,&amp;nbsp;&quot;Run&quot;],&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;functions&quot;:&amp;nbsp;&lt;br&gt;[attack,&amp;nbsp;dodge,&amp;nbsp;goTown],&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;text:&amp;nbsp;&quot;You&amp;nbsp;are&amp;nbsp;fighting amonster.&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#F0F0F0;verticalAlign=top;" parent="173" vertex="1">
-                    <mxGeometry x="185" y="2619.995865753709" width="250" height="341.8345139537295" as="geometry"/>
+                <mxCell id="281" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;locations[3]&lt;/span&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;name:&amp;nbsp;&quot;fight&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;text&quot;:&amp;nbsp;[&quot;Attack&quot;,&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&quot;Dodge&quot;,&amp;nbsp;&quot;Run&quot;],&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;functions&quot;:&amp;nbsp;&lt;br&gt;[attack,&amp;nbsp;dodge,&amp;nbsp;goTown],&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;text:&amp;nbsp;&quot;You&amp;nbsp;are&amp;nbsp;fighting amonster.&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#F0F0F0;verticalAlign=top;" parent="173" vertex="1">
+                    <mxGeometry x="185" y="2670" width="250" height="291.83" as="geometry"/>
                 </mxCell>
                 <mxCell id="282" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 8px;&quot;&gt;attack&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#F0F0F0;" parent="173" vertex="1">
                     <mxGeometry x="183.33999999999992" y="2849.997274613549" width="73" height="59.69083929868243" as="geometry"/>
@@ -831,17 +831,155 @@
                 <mxCell id="284" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 8px;&quot;&gt;goTown&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#F0F0F0;" parent="173" vertex="1">
                     <mxGeometry x="348.5" y="2849.997274613549" width="73" height="59.69083929868243" as="geometry"/>
                 </mxCell>
-                <mxCell id="290" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="173" source="267" target="287">
+                <mxCell id="291" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="173" source="267" target="281">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="490" y="2770" as="sourcePoint"/>
-                        <mxPoint x="540" y="2720" as="targetPoint"/>
+                        <mxPoint x="730" y="2680" as="sourcePoint"/>
+                        <mxPoint x="780" y="2630" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="291" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="173" source="287">
+                <mxCell id="292" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.011;exitY=0.606;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="173" source="267" target="180">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="490" y="2770" as="sourcePoint"/>
-                        <mxPoint x="305" y="2620" as="targetPoint"/>
+                        <mxPoint x="-30" y="2630" as="sourcePoint"/>
+                        <mxPoint x="20" y="2580" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-60" y="800"/>
+                        </Array>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="293" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.011;exitY=0.412;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="173" source="267" target="189">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-30" y="2430" as="sourcePoint"/>
+                        <mxPoint x="20" y="2380" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="110" y="1100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="294" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.061;exitY=0.729;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="173" source="267" target="190">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-30" y="2550" as="sourcePoint"/>
+                        <mxPoint x="20" y="2500" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="30" y="1100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="295" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="173" source="267" target="191">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-30" y="2590" as="sourcePoint"/>
+                        <mxPoint x="20" y="2540" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="50" y="1120"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="306" value="&lt;font color=&quot;#f0f0f0&quot;&gt;lose()&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F0F0F0;fontSize=8;fontColor=#FFFF00;" vertex="1" parent="173">
+                    <mxGeometry x="610" y="2680" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="307" value="&lt;font color=&quot;#f0f0f0&quot;&gt;defeatMonster()&lt;br&gt;&lt;/font&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&lt;font color=&quot;#f0f0f0&quot;&gt;&amp;nbsp; gold&amp;nbsp;+=&amp;nbsp;Math.floor(monsters[fighting].level&amp;nbsp;*&amp;nbsp;6.7);&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&lt;font color=&quot;#f0f0f0&quot;&gt;&amp;nbsp; xp&amp;nbsp;+=&amp;nbsp;monsters[fighting].level;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&lt;font color=&quot;#f0f0f0&quot;&gt;&amp;nbsp; goldText.innerText&amp;nbsp;=&amp;nbsp;gold;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&lt;font color=&quot;#f0f0f0&quot;&gt;&amp;nbsp; xpText.innerText&amp;nbsp;=&amp;nbsp;xp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F0F0F0;fontSize=8;fontColor=#FFFF00;" vertex="1" parent="173">
+                    <mxGeometry x="740" y="2590" width="230" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="309" value="text.innetText" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="173">
+                    <mxGeometry x="530" y="2351" width="370" height="210" as="geometry">
+                        <mxRectangle x="630" y="-4520" width="110" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="310" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span lang=&quot;EN-GB&quot;&gt;text.innerText&amp;nbsp;=&amp;nbsp;&quot;You&amp;nbsp;dodge&amp;nbsp;the&amp;nbsp;attack&amp;nbsp;from&amp;nbsp;the&amp;nbsp;&quot;&amp;nbsp;+&amp;nbsp;monsters[fighting].name&amp;nbsp;+&amp;nbsp;&quot;.&quot;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="309">
+                    <mxGeometry y="30" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="311" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="309">
+                    <mxGeometry y="60" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="312" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="309">
+                    <mxGeometry y="90" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="313" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="309">
+                    <mxGeometry y="120" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="314" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="309">
+                    <mxGeometry y="150" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="315" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="309">
+                    <mxGeometry y="180" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="317" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC00;fontSize=8;fontColor=#F0F0F0;opacity=25;" vertex="1" parent="173">
+                    <mxGeometry x="120" y="2384.66" width="420" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="321" value="&lt;span style=&quot;font-size:10.5pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Courier New&amp;quot;;mso-fareast-font-family:Aptos;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot; lang=&quot;EN-GB&quot;&gt;monsters&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Courier New&amp;quot;;mso-fareast-font-family:Aptos;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot; lang=&quot;EN-GB&quot;&gt;[fighting]&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Courier New&amp;quot;;mso-fareast-font-family:Aptos;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot; lang=&quot;EN-GB&quot;&gt;.name&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#F0F0F0;opacity=25;" vertex="1" parent="173">
+                    <mxGeometry x="610" y="2780" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="322" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="173" source="307" target="185">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="560" y="2635.8" as="sourcePoint"/>
+                        <mxPoint x="470" y="751" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="500" y="2531"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="323" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=0.036;exitY=0.326;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="173" source="307" target="188">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="520" y="2652.6" as="sourcePoint"/>
+                        <mxPoint x="470" y="681" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="490" y="841"/>
+                            <mxPoint x="500" y="2521"/>
+                            <mxPoint x="490" y="2521"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="324" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="173" source="175" target="307">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="470" y="301" as="sourcePoint"/>
+                        <mxPoint x="120" y="2662.6" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-50" y="291"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="325" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="173" source="177" target="307">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="470" y="301" as="sourcePoint"/>
+                        <mxPoint x="150" y="712.5999999999999" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-40" y="501"/>
+                            <mxPoint x="140" y="691"/>
+                            <mxPoint x="140" y="691"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="327" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;locations[4]&lt;/span&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;name:&amp;nbsp;&quot;kill monster&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;text&quot;:&amp;nbsp;[&quot;Go to town square&quot;,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10px;&quot;&gt;&quot;Go to town square&quot;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10px;&quot;&gt;&quot;Go to town square&quot;&lt;/span&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;],&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;functions&quot;:&amp;nbsp;&lt;br&gt;[goTown,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;goTown&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;goTown&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;],&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;text:&amp;nbsp;&quot;The monster screams Arg! as it dies. You gain experience points and find gold.&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#F0F0F0;verticalAlign=top;" vertex="1" parent="173">
+                    <mxGeometry x="190" y="3051" width="250" height="291.83" as="geometry"/>
+                </mxCell>
+                <mxCell id="328" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;goTown&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#F0F0F0;" vertex="1" parent="173">
+                    <mxGeometry x="209.99999999999991" y="3261.004965363006" width="70" height="55.37821811636243" as="geometry"/>
+                </mxCell>
+                <mxCell id="329" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;goTown&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#F0F0F0;" vertex="1" parent="173">
+                    <mxGeometry x="288.49999999999983" y="3261.004965363006" width="60" height="49.786187848043504" as="geometry"/>
+                </mxCell>
+                <mxCell id="330" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;goTown&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#F0F0F0;" vertex="1" parent="173">
+                    <mxGeometry x="361.49999999999983" y="3261.004965363006" width="60" height="49.786187848043504" as="geometry"/>
+                </mxCell>
+                <mxCell id="331" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;locations[5]&lt;/span&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;name:&amp;nbsp;&quot;lose&quot;,&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;text&quot;:&amp;nbsp;[&quot;REPLAY?&quot;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10px;&quot;&gt;&quot;REPLAY?&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Courier New&amp;quot;; font-size: 10px;&quot;&gt;],&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;functions&quot;:&amp;nbsp;&lt;br&gt;[restart,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;restart&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;restart&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;],&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;text:&amp;nbsp;&quot;You die. &amp;amp;#x2620;&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#F0F0F0;verticalAlign=top;" vertex="1" parent="173">
+                    <mxGeometry x="193.5" y="3371" width="250" height="291.83" as="geometry"/>
+                </mxCell>
+                <mxCell id="333" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;restart&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#F0F0F0;" vertex="1" parent="173">
+                    <mxGeometry x="209.25" y="3551.004965363006" width="70" height="55.37821811636243" as="geometry"/>
+                </mxCell>
+                <mxCell id="334" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;restart&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#F0F0F0;" vertex="1" parent="173">
+                    <mxGeometry x="287.7499999999998" y="3551.004965363006" width="60" height="49.786187848043504" as="geometry"/>
+                </mxCell>
+                <mxCell id="335" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;restart&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#F0F0F0;" vertex="1" parent="173">
+                    <mxGeometry x="360.75" y="3551.004965363006" width="60" height="49.786187848043504" as="geometry"/>
+                </mxCell>
+                <mxCell id="340" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="173">
+                    <mxGeometry x="-10" y="2991" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="347" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="173">
+                    <mxGeometry x="10" y="3201" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="349" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;&quot;&gt;locations[6]&lt;/font&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;name:&amp;nbsp;&quot;win&quot;,&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot; class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;text&quot;:&amp;nbsp;[&quot;REPLAY?&quot;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&quot;REPLAY?&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;],&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;&quot;button&amp;nbsp;functions&quot;:&amp;nbsp;&lt;br&gt;[restart,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;restart&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;restart&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;],&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;text:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&quot;You&amp;nbsp;defeat&amp;nbsp;the&amp;nbsp;dragon!&amp;nbsp;&lt;br&gt;YOU&amp;nbsp;WIN&amp;nbsp;THE&amp;nbsp;GAME!&amp;nbsp;&amp;amp;#x1F389;&quot;&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#F0F0F0;verticalAlign=top;" vertex="1" parent="173">
+                    <mxGeometry x="186.67000000000007" y="3701" width="250" height="291.83" as="geometry"/>
                 </mxCell>
                 <mxCell id="250" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Courier New;fontSize=8;fontColor=#F0F0F0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="228" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -927,6 +1065,172 @@
                         <mxPoint x="180" y="-2890" as="targetPoint"/>
                         <Array as="points">
                             <mxPoint x="487" y="-2930"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="296" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;attack()&lt;br&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;health&lt;br&gt;-= monsters[fighting].level;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;monsterHealth -= (weapons[currentWeaponIndex].power + Math.floor(Math.random()&lt;br&gt;* xp) + 1);&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F0F0F0;" vertex="1" parent="1">
+                    <mxGeometry x="1550" y="-1530" width="220" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="297" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.421;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="282" target="296">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2000" y="-1350" as="sourcePoint"/>
+                        <mxPoint x="2050" y="-1400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1800" y="-1390"/>
+                            <mxPoint x="1810" y="-1400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="298" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="296" target="186">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1680" y="-1610" as="sourcePoint"/>
+                        <mxPoint x="1560" y="-3960" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1470" y="-1550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="299" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.009;exitY=0.187;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="186" target="169">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2160" y="-3960" as="sourcePoint"/>
+                        <mxPoint x="2300" y="-4180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="301" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFF00;" edge="1" parent="1" source="178" target="296">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1540" y="-3780" as="sourcePoint"/>
+                        <mxPoint x="1590" y="-3830" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1580" y="-1670"/>
+                            <mxPoint x="1570" y="-1670"/>
+                            <mxPoint x="1580" y="-1570"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="302" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#FFFF00;fontSize=8;exitX=1.007;exitY=0.616;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.021;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="114" target="296">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1540" y="-2940" as="sourcePoint"/>
+                        <mxPoint x="1590" y="-2990" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="303" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#00CC00;fontSize=8;fontColor=#00CC00;exitX=0.263;exitY=0.065;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="296" target="176">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1540" y="-1610" as="sourcePoint"/>
+                        <mxPoint x="1590" y="-1660" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="304" value="&lt;span style=&quot;font-size:10.5pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Courier New&amp;quot;;mso-fareast-font-family:Aptos;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot; lang=&quot;EN-GB&quot;&gt;weapons[currentWeaponIndex].power&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#FFFF00;" vertex="1" parent="1">
+                    <mxGeometry x="1370" y="-3094" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="&lt;font color=&quot;#f0f0f0&quot;&gt;dodge()&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F0F0F0;fontSize=8;fontColor=#FFFF00;" vertex="1" parent="1">
+                    <mxGeometry x="2190" y="-1650" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="308" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=0.568;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="283" target="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2230" y="-1590" as="sourcePoint"/>
+                        <mxPoint x="2250" y="-1570" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2130" y="-1530"/>
+                            <mxPoint x="2200" y="-1510"/>
+                            <mxPoint x="2130" y="-1490"/>
+                            <mxPoint x="2220" y="-1520"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="318" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=0.326;exitY=0.046;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="305" target="310">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2230" y="-1730" as="sourcePoint"/>
+                        <mxPoint x="2280" y="-1780" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2229" y="-1700"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="319" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="214">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2320" y="-1680" as="sourcePoint"/>
+                        <mxPoint x="2260" y="-1530" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2700" y="-1460"/>
+                            <mxPoint x="2700" y="-1530"/>
+                            <mxPoint x="2430" y="-1540"/>
+                            <mxPoint x="2700" y="-1890"/>
+                            <mxPoint x="2650" y="-1570"/>
+                            <mxPoint x="2700" y="-1980"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="320" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2260" y="-1530" as="sourcePoint"/>
+                        <mxPoint x="2255" y="-1570" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2250" y="-1550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="326" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="185">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2010" y="-3820" as="sourcePoint"/>
+                        <mxPoint x="2170" y="-4350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="332" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;function&amp;nbsp;restart(){&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; xp&amp;nbsp;=&amp;nbsp;0;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; health&amp;nbsp;=&amp;nbsp;100;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; gold&amp;nbsp;=&amp;nbsp;50;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; currentWeaponIndex&amp;nbsp;=&amp;nbsp;0;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; inventory&amp;nbsp;=&amp;nbsp;[&quot;stick&quot;];&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; goldText.innerText&amp;nbsp;=&amp;nbsp;gold;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; healthText.innerText&amp;nbsp;=&amp;nbsp;health;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; xpText.innerText&amp;nbsp;=&amp;nbsp;xp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; goTown();&lt;/span&gt;&lt;/p&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="1">
+                    <mxGeometry x="2320" y="-1320" width="520" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="336" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Courier New&amp;quot;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp;if&amp;nbsp;(health&amp;nbsp;&amp;lt;=&amp;nbsp;0)&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="1">
+                    <mxGeometry x="1510" y="-1370" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="337" value="&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot; lang=&quot;EN-GB&quot;&gt;else&amp;nbsp;if&amp;nbsp;(monsterHealth&amp;nbsp;&amp;lt;=&amp;nbsp;0)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoPlainText&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot; lang=&quot;EN-GB&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if&amp;nbsp;(fighting&amp;nbsp;===&amp;nbsp;2)&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="1">
+                    <mxGeometry x="1500" y="-1160" width="210" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="338" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="306">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1700" y="-1310" as="sourcePoint"/>
+                        <mxPoint x="1680" y="-1360" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2330" y="-1440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="341" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="1">
+                    <mxGeometry x="1630" y="-1260" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="342" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="336" target="337">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1960" y="-1240" as="sourcePoint"/>
+                        <mxPoint x="2010" y="-1290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="343" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;&amp;nbsp;winGame&amp;nbsp;();&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="1">
+                    <mxGeometry x="1540" y="-960" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="344" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="337" target="343">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1860" y="-980" as="sourcePoint"/>
+                        <mxPoint x="1910" y="-1030" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="345" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#F0F0F0;" vertex="1" parent="1">
+                    <mxGeometry x="1620" y="-1015" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="346" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="337" target="307">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1960" y="-1240" as="sourcePoint"/>
+                        <mxPoint x="2530" y="-1530" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2430" y="-1320"/>
+                            <mxPoint x="2470" y="-1310"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="348" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#F0F0F0;fontSize=8;fontColor=#F0F0F0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="296" target="336">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1810" y="-1320" as="sourcePoint"/>
+                        <mxPoint x="1860" y="-1370" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1450" y="-1360"/>
+                            <mxPoint x="1500" y="-1390"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
